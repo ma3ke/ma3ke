@@ -12,6 +12,9 @@ Feel free to get in touch.
 - [@ma3ke@hachyderm.io][mastodon]
 - <https://dwangschematiek.nl>
 
+_Déjà vu?_ I changed my username, here. That is the reason that my activity
+metrics and some other things have been messed up and may be confusing.
+
 [gitsrht]: https://git.sr.ht/~ma3ke/
 [srht]: https://sr.ht/~ma3ke/
 [mastodon]: https://hachyderm.io/@ma3ke
